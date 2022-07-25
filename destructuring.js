@@ -51,8 +51,8 @@
 // let c = "Hello";
 // console.log(c);
 
-console.log("Plant Kunde");
-setTimeout(function(){
-console.log("Water kunde");
-}, 6000)
-console.log("Add fertilizers");
+// console.log("Plant Kunde");
+// setTimeout(function(){
+// console.log("Water kunde");
+// }, 6000)
+// console.log("Add fertilizers");
